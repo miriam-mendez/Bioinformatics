@@ -8,7 +8,8 @@
 1. Give four examples of the application simulated annealing: two in bioinformatics (at least one of which should not have been described in the course lectures) and two examples in another area (not related to bioinformatics). For each example, briefly describe (i) how solutions are generated and (ii) how solutions are scored.
 
 2. On page 972 of the article by Morris et al. (2002) the authors state: "The presence of cis-peptides adds an extra complication that we have chosen to ignore". Discuss this "complication", and why the authors chose to ignore it.
-On page 219 of the article by Simons et al. (1997) the authors state: "the similarity in topology is clear ... in the contact map (Figure 9B)". Explain what the authors mean by this.
+
+3. On page 219 of the article by Simons et al. (1997) the authors state: "the similarity in topology is clear ... in the contact map (Figure 9B)". Explain what the authors mean by this.
 
 4. 
     1. Discuss how the concept of mesostates (as described by Gong et al. (2005), or Chellapa and Rose (2012)) could be used in performing structural alignment.
